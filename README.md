@@ -41,3 +41,4 @@ Conocer las características de los circuitos RC y RL, como la relación entre v
 
 6.Bibliografia:
 
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.

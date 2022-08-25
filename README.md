@@ -292,6 +292,92 @@ Análisis de circuitos RC en serie
 
 ![image](https://user-images.githubusercontent.com/105687375/186586735-2c52fff0-e38d-42bc-ba86-6f7cfb3c06f6.png)
 
+32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
+
+![image](https://user-images.githubusercontent.com/105687375/186586932-e1c814f2-f521-4c80-9b48-713ef11c028c.png)
+
+34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105687375/186587069-9bf56171-5ce6-458f-995e-a6e3e37cf6c1.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186587188-114809fe-36b7-45f6-9362-47a3590f9589.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186587244-add1604a-f642-4aba-a898-40c549616aef.png)
+
+Se observa que como se incrementa la frecuencia, Xc, Z y ϑ disminuyen.
+
+36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
+
+![image](https://user-images.githubusercontent.com/105687375/186587472-b2218c56-9ba1-4cc9-9878-42f2570009ce.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186587559-b6cc9b23-62ed-45ba-97a2-9fd07765daee.png)
+
+Se observa que como se incrementa la frecuencia, Xc, Z y ϑ disminuyen.
+
+38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs = 1 V rms
+
+![image](https://user-images.githubusercontent.com/105687375/186587635-661cc7a4-61dc-4fe2-8c1d-946c00f9e5ec.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186587695-c64bbca9-75c5-44df-859e-128645dc2485.png)
+
+PARTE 2: CIRCUITOS EN PARALELO
+
+Impedancia y admitancia de circuitos RC en paralelo
+
+40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
+
+![image](https://user-images.githubusercontent.com/105687375/186587795-763dd4af-d39a-4d3b-b02a-ec4ff0fd6d7a.png)
+
+42. Repita el problema 41 para las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105687375/186588064-0657cf17-9062-409f-9cb4-a8706ec3a245.png)
+
+Análisis de circuitos RC en paralelo
+
+44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado?
+
+![image](https://user-images.githubusercontent.com/105687375/186588165-57731139-2bd3-401e-a92b-6ee073126065.png)
+
+46. Repita el problema 45 con R=5.6 kΩ, C1 = 0.047 µF, C2 =0.022 µF, y f = 500 Hz.
+
+![image](https://user-images.githubusercontent.com/105687375/186588341-aa4ee950-36ad-4cce-b6ea-c8231da93c54.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186588394-90971ff0-0068-40f1-a3d6-92ca98052669.png)
+
+48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.
+
+![image](https://user-images.githubusercontent.com/105687375/186588574-ba35b253-7abf-44fa-9d04-9b9fff142c01.png)
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+Análisis de circuitos RC en serie-paralelo
+
+50. ¿Es el circuito de la figura 15-100 predominantemente resistivo o predominantemente capacitivo?
+
+![image](https://user-images.githubusercontent.com/105687375/186588664-bbf9ca5d-723c-4f24-9145-d950bd56bb76.png)
+
+El circuito presente, es predomínate capacitivo, ya se puede observar que hay mayor presencia de capacitores dentro de él, es decir tenemos 3 capacitores C y 2 resistores R.
+
+52. Para el circuito de la figura 15-101, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105687375/186588889-35189701-c8b3-452f-a8ff-e7d11c37c89c.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186588934-da1eaf18-a373-4b61-9ac5-4daef0dd9be9.png)
+
+54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/105687375/186588971-9d47e42a-9d6b-44c1-8922-4e22051075ea.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186589005-ee796cc9-dc76-411a-9ee2-c750501f4341.png)
+
+56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/105687375/186589089-44adcb8d-0231-4d6f-8cc4-975e9aae6ada.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186589109-c6b6020f-77d1-40ea-85f5-e913bb2324fa.png)
+
+
+
 
 
 

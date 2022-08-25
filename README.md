@@ -478,16 +478,201 @@ R=0.57Ω,Xl=0.4Ω
 
 ![image](https://user-images.githubusercontent.com/105687375/186591065-e66513ed-9dbd-4960-9339-0d1d11ea550e.png)
 
+18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.
 
+![image](https://user-images.githubusercontent.com/105687375/186591729-bf581dfe-684a-4806-9168-36c9129bca9d.png)
 
+a)1 Hz
 
+Determinando la reactancia inductiva
 
+X_L=2πfL=2π(1Hz)(10mH)=62.8 kΩ
 
+∅=〖tan〗^(-1) (R/X_L )=〖tan〗^(-1) (39Ω/62.8kΩ)=89.08 °
 
+La salida adelanta en 89.08° a la entrada.
 
+b) 100 Hz
 
+Determinando la reactancia inductiva
 
+X_L=2πfL=2π(100Hz)(10mH)=6.28 Ω
 
+∅=〖tan〗^(-1) (R/X_L )=〖tan〗^(-1) (39Ω/6.28kΩ)=80.85 °
+
+La salida adelanta en 80.85° a la entrada.
+
+c) 1kHz
+
+Determinando la reactancia inductiva
+
+X_L=2πfL=2π(1000Hz)(10mH)=62.83 Ω
+
+∅=〖tan〗^(-1) (R/X_L )=〖tan〗^(-1) (39Ω/62.83Ω)=31.82 °
+
+La salida adelanta en 31.82° a la entrada.
+
+d) 10kHz
+
+Determinando la reactancia inductiva
+
+X_L=2πfL=2π(10000Hz)(10mH)=628.31 Ω
+
+∅=〖tan〗^(-1) (R/X_L )=〖tan〗^(-1) (39Ω/628.31Ω)=3.55 °
+
+La salida adelanta en 3.55° a la entrada.
+
+20. Repita el problema 19 para las siguientes frecuencias: Se debe determinar la impedancia expresada en forma polar.
+
+![image](https://user-images.githubusercontent.com/105687375/186591966-d3c1deb3-f40a-4679-a8fc-0d96d8d21ada.png)
+
+-La inductancia se expresa con la letra Z
+
+a) 1.5 Hz
+
+Determinando primeramente  la reactancia inductiva
+
+X_L=2πfL=2π(1.5Hz)(800μH)=7.53kΩ
+
+Z=((RX_L)/√(R^2+〖X_L〗^2 ))∠〖tan〗^(-1) (R/X_L )
+
+Z=(((12)(0.00753))/√(〖12〗^2+〖(0.00753)〗^2 ))∠〖tan〗^(-1) (12/0.00753)=7.52∠89.96° kΩ
+
+b) 3kHz
+
+Determinando primeramente  la reactancia inductiva
+
+X_L=2πfL=2π(3000Hz)(800μH)=15.07Ω
+
+Z=((RX_L)/√(R^2+〖X_L〗^2 ))∠〖tan〗^(-1) (R/X_L )
+
+Z=(((12)(15.07))/√(〖12〗^2+〖(15.07)〗^2 ))∠〖tan〗^(-1) (12/15.07)=9.38∠38.52° Ω
+
+c) 5kHz
+
+Determinando primeramente  la reactancia inductiva
+
+X_L=2πfL=2π(5000Hz)(800μH)=25.13Ω
+
+Z=((RX_L)/√(R^2+〖X_L〗^2 ))∠〖tan〗^(-1) (R/X_L )
+
+Z=(((12)(25.13))/√(〖12〗^2+〖(25.13)〗^2 ))∠〖tan〗^(-1) (12/25.13)=10.83 ∠25.53° Ω
+
+d) 10kHz
+
+Determinando primeramente  la reactancia inductiva
+
+X_L=2πfL=2π(10000Hz)(800μH)=50.27Ω
+
+Z=((RX_L)/√(R^2+〖X_L〗^2 ))∠〖tan〗^(-1) (R/X_L )
+
+Z=(((12)(50.27))/√(〖12〗^2+〖(50.27)〗^2 ))∠〖tan〗^(-1) (12/50.27)=11.67 ∠13.43° Ω
+
+22. Encuentre la corriente total y cada corriente de rama en la figura 16-64.
+
+![image](https://user-images.githubusercontent.com/105687375/186592225-bf54e8c0-e633-4e1b-bbfc-7578fb579b9c.png)
+
+24. Repita el problema 23 para R =56Ω y L =330 µH.
+
+-Se debe determinar: a) Z, b) IR,  c)IL, d)ITotal, e) Angulo theta. 
+
+![image](https://user-images.githubusercontent.com/105687375/186592303-d4948f32-5010-469d-af50-b1a73806841d.png)
+
+a) Determinando primeramente  la reactancia inductiva
+
+X_L=2πfL=2π(2000Hz)(330μH)=10.05Ω
+
+Z=((RX_L)/√(R^2+〖X_L〗^2 ))∠〖tan〗^(-1) (R/X_L )
+
+Z=(((56)(10.05))/√(〖56〗^2+〖(10.05)〗^2 ))∠〖tan〗^(-1) (56/10.05)= 9.89∠ 79.83° Ω
+
+b)
+
+I_R=V_S/R=(50∠0° V)/(56Ω∠0°)=0.892 ∠0° A
+
+c) 
+
+I_L=V_S/XL=(50∠0° V)/(10.05Ω∠90°)=4.98 ∠-90° A
+
+d) 
+
+I_tot=√(〖I_R〗^2+〖I_L〗^2 )∠-〖tan〗^(-1) (I_L/I_R )=√((0.892)^2+(4.98)^2 )∠-〖tan〗^(-1) (4.98/0.892)=5.059∠-79.84° A
+
+e)
+
+θ=-〖tan〗^(-1) (IL/IR)=-〖tan〗^(-1) (4.98/0.892)= -79.84 °
+
+26. Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67.
+
+![image](https://user-images.githubusercontent.com/105687375/186592558-cea2f615-a411-4728-8395-8dd0f438616b.png)
+
+28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
+
+![image](https://user-images.githubusercontent.com/105687375/186592654-c0f54b93-5d04-47a1-a8e5-ba15d31ae788.png)
+
+-Es predominantemente inductivo ya que para que sea predominante resistivo, debe presentarse una sola resistencia, y en este caso se tiene tres resistencias conectadas. En este tipo de circuito, la corriente está por detrás del voltaje en un ángulo de 90 grados.
+
+30. Para el circuito de la figura 16-69, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105687375/186592840-86f2692c-d812-4a69-be14-ee824cf38b3a.png)
+
+a) I total
+
+Ztot=Z1+Z2=8.9kΩ+j9.047 kΩ
+
+Ztot=√(〖(Z1)〗^2+〖(Z2)〗^2 )  ∠ 〖tan〗^(-1) (Z2/Z1)= √(〖(8.9)〗^2+〖(9.047)〗^2 )  ∠ 〖tan〗^(-1) (9.047/8.9)=12.69∠45.47° kΩ
+
+Itot=Vs/Ztot=(18∠0°)/(12.69∠45.47°)=1.41 mA
+
+b) θ
+
+〖θ=tan〗^(-1) (9.047/8.9)=45.47°
+
+c) VR2
+
+VR2=I1∙R2=(3∠-56.71°)∙(5.6∠90°)=(16.8∠33.29°)  V
+
+d) VR3
+
+I1=Vs/Z1=(18∠0°)/(6.01∠56.71°)=3∠-56.71° mA
+
+I2=Vs/Z2=(18∠0°)/(6.89∠35.68°)=2.61∠-35.68° mA
+
+VR1=I1∙R1=(3∠-56.71°)∙(3.3∠0°)=(9.9∠-56.71°)  V
+
+e) VL1
+
+VL1=I1∙XL1=(3∠-56.71°)∙(5.026∠90°)=(15.07∠33.29°)  V
+
+f) VL2
+
+VR2=I2∙XL2=(2.61∠-35.68°)∙(4.021∠0°)=(10.49∠-35.68°)  V
+
+36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente?
+
+-La potencia aparente se calcula mediante la corriente al cuadrado por la impedancia, asi que se debe primero obtener los valores de las resistencias y el voltaje de la fuente para poder corroborar los valores dados y obtener la potencia aparente. 
+
+38.  ¿Cuál es el factor de potencia en la figura 16-64?
+
+![image](https://user-images.githubusercontent.com/105687375/186593082-1717368e-c491-4633-9d69-f83c4de5cafb.png)
+
+Z=√(R^2+〖XL〗^2  )  ∠ 〖tan〗^(-1) (XL/R)
+
+= √((2.2)^2+(3.5)^2  )  ∠ 〖tan〗^(-1) (3.5/2.2)
+
+=4.13 ∠ 57.85°
+
+FP=cos⁡(θ)=cos⁡(57.85)=0.532 
+
+42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62.
+
+![image](https://user-images.githubusercontent.com/105687375/186593252-5ada9c8f-b9e4-46d6-b413-5b22c3f74668.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186593366-e73972b1-a14d-4718-b48a-7ca22ad93f6f.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186593421-2ea9c21d-71f4-4405-b37a-f4dd73d3a816.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186593475-f44d2b25-bd94-4b68-995b-16c61ada7aac.png)
 
 4.Video:
 

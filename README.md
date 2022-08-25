@@ -376,6 +376,109 @@ El circuito presente, es predomínate capacitivo, ya se puede observar que hay m
 
 ![image](https://user-images.githubusercontent.com/105687375/186589109-c6b6020f-77d1-40ea-85f5-e913bb2324fa.png)
 
+58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
+
+![image](https://user-images.githubusercontent.com/105687375/186589503-141672a7-ebed-475f-801c-096d7869e7a9.png)
+
+- La potencia real,es aquella potencia que se encuentra en un resistor.  (Preal = I^2  R) 
+
+- La potencia reactiva,es aquella potencia que se encuentra en un capacitor.(Pr = I^2  Xc)
+
+60. Determine Preal, Pr, Pa, y FP para el circuito de la figura 15-101. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/105687375/186589668-72967ac6-1b52-4028-8686-27229bd39b36.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186589709-e5a381fa-3a2f-4daf-ac06-f676f45ddc27.png)
+
+62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 µF y todos los resistores de 10 kΩ.
+
+![image](https://user-images.githubusercontent.com/105687375/186589829-b7051d2e-e2c1-4be3-9d04-07bbf074da3f.png)
+
+64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kΩ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?
+
+![image](https://user-images.githubusercontent.com/105687375/186589904-d2911012-095c-45fb-98a8-3324eb422a0b.png)
+
+66. Los capacitores de la figura 15-107 han desarrollado una resistencia de fuga de 2 kΩ. Determine los voltajes de salida en esta condición para cada circuito.
+
+![image](https://user-images.githubusercontent.com/105687375/186589951-86ebdc9f-6eb3-4168-9dcb-ede260cc4360.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186590000-4221a41b-094e-4834-8bcf-6e20af56cd5a.png)
+
+68. Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta: 
+
+![image](https://user-images.githubusercontent.com/105687375/186590053-5e8e9b43-db7c-4ba8-87df-8f4b2d24963f.png)
+
+a)	C abierto:
+
+Si el circuito está abierto en C, no hay voltaje de salida
+.
+b)	C en cortocircuito:
+
+1.	No hay voltaje de fuente o la frecuencia es tan alta que la reactancia capacitiva es casi de cero. 
+
+2.	Hay un corto entre las terminales de salida. O el capacitor podría estar internamente en cortocircuito, o podría haber un corto físico en el circuito. 
+
+3. Hay una abertura entre la fuente y la salida. Esto interrumpiría la corriente, y por tanto haría que el voltaje de salida fuera de cero. El resistor podría estar abierto, o la trayectoria conductiva podría estar abierta debido a un cable de conexión abierto o suelto o a un contacto defectuoso en la tarjeta prototipo. 
+
+5. Hay un valor de componente incorrecto. El resistor podría ser tan grande que la corriente y, por tanto, los voltajes de salida resulten insignificantes. El capacitor podría ser tan grande que su reactancia a la frecuencia de entrada sea casi de cero.
+
+![image](https://user-images.githubusercontent.com/105687375/186590288-18b95ec2-a9c4-43d4-b9fd-5802d22a51fa.png)
+
+2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?
+
+- I retrasada con respecto a Vs.
+
+- VR adelantado con respecto a Vs.
+
+- VL adelantado con respecto a Vs.
+
+4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.
+
+![image](https://user-images.githubusercontent.com/105687375/186590436-6ce34a7a-5201-4816-848d-a2cd494384f0.png)
+
+6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total: 
+
+a) Z = 2.5∠72.5° kΩ
+
+R=0.95Ω,Xl=3.01Ω 
+
+b) Z = 998∠45° Ω 
+
+R=Xl=705.69Ω
+
+c) Z = 20 Ω + j45 Ω 
+
+R=20Ω,Xl=45Ω
+
+d) Z = 500∠35° Ω
+
+R=0.57Ω,Xl=0.4Ω
+
+8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.
+
+![image](https://user-images.githubusercontent.com/105687375/186590604-05c3643a-e893-45c4-b6cc-863b0c58a1ba.png)
+
+10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.
+
+![image](https://user-images.githubusercontent.com/105687375/186590663-377e7533-7df7-4f80-b10c-75b8f7f24085.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186590709-7b03281e-f54d-4748-87d9-90b0c7f9c77d.png)
+
+12. Determine el θ para el circuito de la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/105687375/186590824-38e6d593-bacc-411a-b3e0-b21e79a680e3.png)
+
+14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.
+
+![image](https://user-images.githubusercontent.com/105687375/186590907-10bcaac0-081b-4544-8ad4-90cd891c0656.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186590971-c5096821-5ca9-4542-9daa-7002c182e535.png)
+
+16. Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60. 
+
+![image](https://user-images.githubusercontent.com/105687375/186591065-e66513ed-9dbd-4960-9339-0d1d11ea550e.png)
+
+
 
 
 

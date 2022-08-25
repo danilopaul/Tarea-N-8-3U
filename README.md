@@ -676,6 +676,8 @@ FP=cos⁡(θ)=cos⁡(57.85)=0.532
 
 4.Video:
 
+https://youtu.be/s7PgrsAlW1Q
+
 5.Conclusiones:
 
 •	Tanto un circuito RC, como uno RL, en serie todas las corrientes y todos los voltajes son sinusoidales cuando el voltaje de entrada es sinusoidal, para sus respectivos análisis se hace uso de las leyes más importantes la ley de Ohm, y la ley de voltajes de Kirchhoff que permiten relacionar la corriente y la resistencia.
